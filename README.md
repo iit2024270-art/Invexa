@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # InveXa
 
 InveXa is an inventory management platform for teams that need one place to track stock, suppliers, purchase orders, sales orders, and demand signals.
