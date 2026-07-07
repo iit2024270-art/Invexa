@@ -67,7 +67,7 @@ Invexa/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Invexa.git
+git clone https://github.com/iit2024270-art/Invexa.git
 
 cd Invexa
 ```
